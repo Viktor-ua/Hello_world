@@ -1,4 +1,7 @@
 # Hello_world
 My first repository
 
-i write something about myself
+and some deleting
+i write something
+
+some add
